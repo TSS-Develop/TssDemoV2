@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/PanyaN/Documents/TSS_PROJECT/TssDemoV2/TssDemoV1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/PanyaN/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/70547bf146d77d279aea2d4f45a982d1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/PanyaN/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/028ed8d721a239726f9d11f726022488/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "563",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "731"
+                    }
+                },
+                {
+                    "source": "/Users/PanyaN/Documents/TSS_PROJECT/TssDemoV2/TssDemoV1/app/src/main/res/values-v16/styles.xml",
+                    "from": {
+                        "startLines": "12,20,28",
+                        "startColumns": "8,8,8",
+                        "startOffsets": "178,624,1022",
+                        "endLines": "19,26,36",
+                        "endColumns": "16,16,16",
+                        "endOffsets": "615,1012,1545"
+                    },
+                    "to": {
+                        "startLines": "3,15,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "121,736,1129",
+                        "endLines": "10,21,30",
+                        "endColumns": "16,16,16",
+                        "endOffsets": "558,1124,1652"
+                    }
+                }
+            ]
+        }
+    ]
+}
